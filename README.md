@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayoub Mekkaoui.
-- 👀 I’m a Computer Science student at CSUEB.
+- 👀 I’m a Computer Science student at Cal State University, East Bay.
 - 💞️ I’m looking to collaborate on coding/programming projects.
 - 📫 How to reach me: ayoubmekka@gmail.com 
 
